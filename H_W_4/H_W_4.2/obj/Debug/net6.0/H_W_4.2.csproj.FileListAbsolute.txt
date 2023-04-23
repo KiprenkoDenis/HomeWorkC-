@@ -1,0 +1,15 @@
+C:\Users\Таня\Documents\Denis\C#\H_W_4\H_W_4.2\bin\Debug\net6.0\H_W_4.2.exe
+C:\Users\Таня\Documents\Denis\C#\H_W_4\H_W_4.2\bin\Debug\net6.0\H_W_4.2.deps.json
+C:\Users\Таня\Documents\Denis\C#\H_W_4\H_W_4.2\bin\Debug\net6.0\H_W_4.2.runtimeconfig.json
+C:\Users\Таня\Documents\Denis\C#\H_W_4\H_W_4.2\bin\Debug\net6.0\H_W_4.2.dll
+C:\Users\Таня\Documents\Denis\C#\H_W_4\H_W_4.2\bin\Debug\net6.0\H_W_4.2.pdb
+C:\Users\Таня\Documents\Denis\C#\H_W_4\H_W_4.2\obj\Debug\net6.0\H_W_4.2.csproj.AssemblyReference.cache
+C:\Users\Таня\Documents\Denis\C#\H_W_4\H_W_4.2\obj\Debug\net6.0\H_W_4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Таня\Documents\Denis\C#\H_W_4\H_W_4.2\obj\Debug\net6.0\H_W_4.2.AssemblyInfoInputs.cache
+C:\Users\Таня\Documents\Denis\C#\H_W_4\H_W_4.2\obj\Debug\net6.0\H_W_4.2.AssemblyInfo.cs
+C:\Users\Таня\Documents\Denis\C#\H_W_4\H_W_4.2\obj\Debug\net6.0\H_W_4.2.csproj.CoreCompileInputs.cache
+C:\Users\Таня\Documents\Denis\C#\H_W_4\H_W_4.2\obj\Debug\net6.0\H_W_4.2.dll
+C:\Users\Таня\Documents\Denis\C#\H_W_4\H_W_4.2\obj\Debug\net6.0\refint\H_W_4.2.dll
+C:\Users\Таня\Documents\Denis\C#\H_W_4\H_W_4.2\obj\Debug\net6.0\H_W_4.2.pdb
+C:\Users\Таня\Documents\Denis\C#\H_W_4\H_W_4.2\obj\Debug\net6.0\H_W_4.2.genruntimeconfig.cache
+C:\Users\Таня\Documents\Denis\C#\H_W_4\H_W_4.2\obj\Debug\net6.0\ref\H_W_4.2.dll
