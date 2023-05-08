@@ -3,18 +3,28 @@
     int[] array = new int[size];
     for (int i = 0; i < size; i++)
     {
-        array[i] = new Random().Next(-9,9);
+        array[i] = new Random().Next(100,1000);
     }
     return array;
 }
 
-int EnterData(string text)
+int CountEven(int[] array)
 {
-    Console.Write(text);
-    return (int.Parse(Console.ReadLine()));
+    int count = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i] % 2 == 0)
+        {
+            count++;
+        }
+    }
+    return count;
 }
 
-int numA = EnterData("Введите число: ");
+
+
+int numA = 4;
 int[] array = FillArray(numA);
-Console.WriteLine($"{String.Join(", ",array)} -> [{String.Join(", ",array)}]");
+int count = CountEven(array);
+Console.WriteLine($"{String.Join(", ",array)} -> {count}");
 
